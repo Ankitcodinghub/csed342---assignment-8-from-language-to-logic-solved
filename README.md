@@ -1,0 +1,1 @@
+# csed342---assignment-8-from-language-to-logic-solved
